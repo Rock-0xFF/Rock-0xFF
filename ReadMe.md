@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently working on cybersecurity analysis, penetration testing methodologies, and advanced network configurations<br>👯 I'm looking to collaborate on open-source security tools, web development projects, and network simulation environments<br>🤝 I'm looking for help with cybersecurity analysis, penetration testing, network security, and secure software engineering 🌱 I'm currently learning advanced cybersecurity concepts, software engineering, systems administration, and network management while continuously expanding my expertise<br>💬 Ask me about network security, penetration testing, system administration, and web development<br>⚡ Fun fact: I treat every network topology and line of code as an intricate puzzle waiting to be dissected and secured!
+🔭 I'm currently working on cybersecurity analysis, penetration testing methodologies, and advanced network configurations<br>👯 I'm looking to collaborate on open-source security tools, web development projects, and network simulation environments<br>🤝 I'm looking for help with cybersecurity analysis, penetration testing, network security, and secure software engineering 
+🌱 I'm currently learning advanced cybersecurity concepts, software engineering, systems administration, and network management while continuously expanding my expertise<br>💬 Ask me about network security, penetration testing, system administration, and web development<br>⚡ Fun fact: I treat every network topology and line of code as an intricate puzzle waiting to be dissected and secured!
 
 
 ## 🌐 Socials:
